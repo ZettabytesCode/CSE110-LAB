@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [About Me]()
+- [About Me](https://github.com/ZettabytesCode/CSE110-LAB/blob/user-page/index.md#about-me)
 
 ## About Me
 
