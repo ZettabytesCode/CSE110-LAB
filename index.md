@@ -3,6 +3,9 @@
 ## Table of Contents
 
 - [About Me](https://github.com/ZettabytesCode/CSE110-LAB/blob/user-page/index.md#about-me)
+- [Hobbies](https://github.com/ZettabytesCode/CSE110-LAB/blob/user-page/index.md#hobbies)
+- [What I've Written](https://github.com/ZettabytesCode/CSE110-LAB/blob/user-page/index.md#what-ive-written)
+- [About this Repo](https://github.com/ZettabytesCode/CSE110-LAB/blob/user-page/index.md#about-this-repo)
 
 ## About Me
 
