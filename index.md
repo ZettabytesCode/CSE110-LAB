@@ -32,7 +32,7 @@ Some of my hobbies:
 
 Bucket List:
 
-[ ] Make a bucket list
+- [ ] Make a bucket list
 
 ## What I've Written
 
