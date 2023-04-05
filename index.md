@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [About Me](https://github.com/ZettabytesCode/CSE110-LAB/blob/user-page/index.md#about-me)
-- [Hobbies](https://github.com/ZettabytesCode/CSE110-LAB/blob/user-page/index.md#hobbies)
-- [What I've Written](https://github.com/ZettabytesCode/CSE110-LAB/blob/user-page/index.md#what-ive-written)
-- [About this Repo](https://github.com/ZettabytesCode/CSE110-LAB/blob/user-page/index.md#about-this-repo)
+- [About Me](#about-me)
+- [Hobbies](#hobbies)
+- [What I've Written](#what-ive-written)
+- [About this Repo](#about-this-repo)
 
 ## About Me
 
@@ -47,4 +47,4 @@ every written has to be `System.out.println("Hello World");` because that was th
 
 ## About this Repo
 
-This repo is a repo for my user page where the raw contents are stored in [this index file](index.md)
+This repo is a repo for my user page where the read me is at [this markdown file](README.md)
